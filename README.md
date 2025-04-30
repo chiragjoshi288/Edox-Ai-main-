@@ -18,7 +18,11 @@ This is a simple front-end clone of Google's Gemini AI interface. The goal of th
 - HTML
 - CSS
 - JavaScript
-- 
+
+## INSTUCTIONS : 
+Step 1- Create your google gemini API key from GOOGLE STUDIO (it completely free of cost)
+Step 2- Place Gemini API in you JAVASCRIPT code and your are Good to go ! 
+
 
 
 ---
